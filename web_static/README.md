@@ -1,1 +1,3 @@
-Write an HTML page that displays a header, footer, a filters box with dropdown and results. 
+Write an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search.
+
+
